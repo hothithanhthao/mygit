@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Notifications</string>
+    <string name="secret_text">hello world</string>
+</resources>
