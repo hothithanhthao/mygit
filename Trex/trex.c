@@ -1,6 +1,6 @@
 /*
 File: trex.c
-Author: Thao Ho - 1601849 and Dung Ho -1604068
+Author: Thao Ho
 Description: T-rex Runner Game
 */
 
